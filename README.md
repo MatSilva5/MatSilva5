@@ -4,6 +4,5 @@
 
 <div>
   <a href="https://github.com/MatSilva5">
-    https://github-readme-stats.vercel.app/api?username=MatSilva5
-    https://github.com/MatSilva5/github-readme-stats
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatSilva5&show_icons=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
