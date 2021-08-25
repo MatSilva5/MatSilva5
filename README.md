@@ -9,7 +9,6 @@
 <div>
   <a href="https://github.com/MatSilva5">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatSilva5&show_icons=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatSilva5&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
