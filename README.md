@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Learning Angular
+- Junior Web Developer
 
 ##
 
