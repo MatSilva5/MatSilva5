@@ -2,7 +2,7 @@
 
 ##
 
-- Junior Web Developer
+- Web Developer
 
 ##
 
