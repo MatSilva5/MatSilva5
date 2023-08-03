@@ -5,16 +5,14 @@
 - Web Developer
 
 ##
-
-<div>
-  <a href="https://github.com/MatSilva5">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatSilva5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
   <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg'>
 </div>
   
   ##
